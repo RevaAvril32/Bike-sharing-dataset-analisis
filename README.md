@@ -14,6 +14,7 @@ git clone https://github.com/RevaAvril32/Bike-sharing-dataset-analisis.git
 - conda activate main-ds
 - pip install -r requirements.txt
 ### 3. Run Streamlit App
+cd Dashboard
 streamlit run Dashboard.py
 
 
